@@ -11,7 +11,7 @@ Metasploit: The Pentration Tester's Guide | Author: Dave Kennedy et al. 2011..
 RTFM: Red Team Field Manual | Author: Ben Clark. 2014..
 BTFM: Blue Team Field Manual | Author: Alan White, & Ben Clark. 2017..
 Blue Team Handbook: Incident Response Edition  | Author: Don Murdoch. 2013..
-Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases:  	Author: Don Murdoch. 2018..
+Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases | Author: Don Murdoch. 2018..
 Defensive Security Handbook | Author: Amanda Berlin, and Lee Brotherston. 2017..
 Attacking Network Protocols | Author: James Forshaw. 2017..
 Serious Cryptography | Author: Jean-Philippe Aumasson. 2017.
@@ -22,6 +22,7 @@ Practical Malware Analysis| Author: Michael Sikorski & Andrew Honig 2012.
 
 
 ##Python
+
 Title | Author 
 ------------ | ------------- 
 Grey Hat Python | Author: Justin Seitz. 2009..
