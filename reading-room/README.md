@@ -7,7 +7,7 @@ Penetration Testing | Author: Georgia Weidman. 2014..
 The Hacker Playbook 2 | Author: Peter Kim. 2015..
 The Hacker Playbook 3 | Author: Peter Kim. 2018..
 Nmap Network Scanning | Author: Gordon Fyodor Lyon. 2009..
-Metasploit: The Pentration Tester's Guide | Author: Dave Kennedy et al. 2011..
+Metasploit: The Pentration Tester's Guide | Author: Dave Kennedy 2011..
 RTFM: Red Team Field Manual | Author: Ben Clark. 2014..
 BTFM: Blue Team Field Manual | Author: Alan White, & Ben Clark. 2017..
 Blue Team Handbook: Incident Response Edition  | Author: Don Murdoch. 2013..
