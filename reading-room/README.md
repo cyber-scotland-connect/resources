@@ -21,7 +21,7 @@ The Browser Hacker's Handbook | Author: Christian Frichot. 2014..
 Practical Malware Analysis| Author: Michael Sikorski & Andrew Honig 2012.
 
 
-#Python
+# Python
 
 Title | Author 
 ------------ | ------------- 
